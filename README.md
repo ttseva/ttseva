@@ -1,3 +1,3 @@
 <h1>Анастасия | ttseva</h1>
-<img align="right" alt="jpg" src="https://raw.githubusercontent.com/ttseva/ttseva/main/assets/star.jpg" width="400px"/>
+<img align="right" alt="jpg" src="https://raw.githubusercontent.com/ttseva/ttseva/main/assets/disk3.jpg" width="300px"/>
 Soon...
