@@ -2,8 +2,9 @@
 
 <img align="right" alt="jpg" src="https://raw.githubusercontent.com/ttseva/ttseva/main/assets/windows98.jpg" width="200px"/>
 
-<h1>Это Анастасия!</h1>
+<h3>Это Анастасия!</h3>
 
+-----------
 Фронтенд-разработчик грейда intern, и студент 3 курса технического вуза
 
 — Основа стека состоит из\
