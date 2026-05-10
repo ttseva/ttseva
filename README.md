@@ -1,6 +1,6 @@
 <h1>Это Анастасия!</h1>
 
-<img align="right" alt="jpg" src="https://raw.githubusercontent.com/ttseva/ttseva/main/assets/task.jpg" width="260px"/>
+<img align="right" alt="jpg" src="https://raw.githubusercontent.com/ttseva/ttseva/main/assets/windows98.jpg" width="260px"/>
 
 Фронтенд-разработчик грейда intern, и студент 3 курса технического вуза
 
