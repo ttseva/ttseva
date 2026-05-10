@@ -1,21 +1,23 @@
-
-
-<img align="right" alt="jpg" src="https://raw.githubusercontent.com/ttseva/ttseva/main/assets/windows98.jpg" width="200px"/>
+<img align="right" alt="jpg" src="https://raw.githubusercontent.com/ttseva/ttseva/main/assets/windows98.jpg" width="220px"/>
 
 <h3>Это Анастасия!</h3>
 
------------
-Фронтенд-разработчик грейда intern, и студент 3 курса технического вуза
+<br>
 
-— Основа стека состоит из\
-`HTML/CSS` `JavaScript` `React` `Redux`
+Фронтенд-разработчик грейда intern, и студент 3 курса технического вуза.
 
-👾 На данный момент настроены на изучение TypeScript
+<br>
 
+— Основа стека состоит из `HTML/CSS`, `JavaScript`, `React`, `Redux`\
+— Дополнительно развиваю `Docker`, `Vite`\
+— Также имею `Английский В2-С1`
+
+👾 На данный момент изучаю TypeScript, а следующий шаг - в сторону ARIA
+
+<br>
 
 Заметка! В закрепленных учебных проектах требовалось работать только с логикой: вёрстка и ресурсы были предоставлены и не разработаны мной.
 
-<br>
 Ещё найти меня можно в:
 
 [![hh.ru](https://img.shields.io/badge/hh.ru-%23C81720?style=for-the-badge)](https://hh.ru/resume/55597847ff0bcb1be00039ed1f4c5832556353)
