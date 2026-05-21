@@ -6,11 +6,11 @@
 
 <br>
 
-— Основа стека состоит из `HTML/CSS`, `JavaScript`, `React`, `Redux`\
-— Дополнительно развиваю `Docker`, `Vite`\
-— Также имею `Английский В2-С1`
+— Основа стека состоит из: `HTML/CSS`, `JavaScript`, `React`, `Redux Toolkit`\
+— Дополнительно развиваюсь в: `Docker`, `accessibility`, `CSS Modules`\
+— Также имею: `Английский В2-С1`
 
-👾 На данный момент изучаю TypeScript, а следующий шаг - в сторону ARIA
+👾 На данный момент углубляюсь в TypeScript.
 
 <br>
 
