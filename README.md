@@ -21,3 +21,6 @@
 [![hh.ru](https://img.shields.io/badge/hh.ru-%23C81720?style=for-the-badge)](https://hh.ru/resume/55597847ff0bcb1be00039ed1f4c5832556353)
 [![Telegram](https://img.shields.io/badge/telegram-%233D69B6?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ttseva)
 ![Static Badge](https://img.shields.io/badge/portfolio-soon...-%2355523B?style=for-the-badge)
+
+> Email: annihilcax<!-- -->@<!-- -->gmail.com
+---
